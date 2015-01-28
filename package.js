@@ -5,5 +5,5 @@ Package.describe({
   debugOnly: true
 });
 
-Package.on_use(function (api) {
+Package.onUse(function (api) {
 });
